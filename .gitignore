@@ -18,3 +18,7 @@ OpenMS.config
 OpenMS.creator
 OpenMS.files
 OpenMS.includes
+
+# Jakob additions
+test/a.out
+CMakeLists.txt.old

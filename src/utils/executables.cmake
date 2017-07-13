@@ -10,6 +10,7 @@ DecoyDatabase
 DeMeanderize
 Digestor
 DigestorMotif
+DinosaurAdapter
 ERPairFinder
 FeatureFinderSuperHirn
 FFEval
