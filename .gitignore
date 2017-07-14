@@ -22,3 +22,5 @@ OpenMS.includes
 # Jakob additions
 test/a.out
 CMakeLists.txt.old
+cmake-build-debug/
+src/openms/include/OpenMS/config.h
